@@ -1,0 +1,4 @@
+{
+    "/api/login": "/users",
+    "/api/blogs/:id/comments": "/blogs/:id/comments"
+}

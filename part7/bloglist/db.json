@@ -1,0 +1,50 @@
+{
+  "blogs": [
+    {
+      "title": "React patterns",
+      "author": "Michael Chan",
+      "url": "https://reactpatterns.com/",
+      "likes": 7,
+      "user": {
+        "username": "mluukkai",
+        "name": "Matti Luukkainen",
+        "id": "64d1e6b42a6f8a2d9c4d3f2e"
+      },
+      "id": "64d1e6b42a6f8a2d9c4d3f2a",
+      "comments": [
+        {
+          "content": "Great read!",
+          "id": "64d1e6b42a6f8a2d9c4d3f2b"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "username": "mluukkai",
+      "name": "Matti Luukkainen",
+      "password": "1234",
+      "id": "64d1e6b42a6f8a2d9c4d3f2e"
+    },
+    {
+      "username": "mluukkai",
+      "password": "1234",
+      "id": "rGiMdWn"
+    },
+    {
+      "username": "mluukkai",
+      "password": "1234",
+      "id": "Vrq_rSM"
+    },
+    {
+      "username": "mluukkai",
+      "password": "1234",
+      "id": "uaVt5Da"
+    },
+    {
+      "username": "mluukkai",
+      "password": "1234",
+      "id": "V7K6iWl"
+    }
+  ]
+}
